@@ -1,9 +1,8 @@
-# search-sort-and-pagination-angularjs
-Implement searching in angularjs, sorting in angularjs and pagination in angularjs in the easiest way possible.
+# Server-Side-Pagination-In-AngularJS
+This tutorial will show us how to implement Server Side Pagination in our AngularJS applications. 
 
 Download --> Click on Download as zip, on your right to download the code.
 
-Demo : <a href="http://code.ciphertrick.com/demo/search-sort-pagination/">http://code.ciphertrick.com/demo/search-sort-pagination/</a> </br>
+Demo : 
 
-Complete Tutorial : - <a href="http://code.ciphertrick.com/2015/06/01/search-sort-and-pagination-ngrepeat-angularjs/">http://code.ciphertrick.com/2015/06/01/search-sort-and-pagination-ngrepeat-angularjs/</a>
-
+Complete Tutorial : - 
